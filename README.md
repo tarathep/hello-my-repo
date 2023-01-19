@@ -1,3 +1,5 @@
+I'm Chakkrit D.
+
 # hello-my-repo
 first repository on GitHub
 
